@@ -28,7 +28,7 @@ function App() {
               <CardBody>
                 <CardTitle tag="h5">Card title</CardTitle>
                 <CardSubtitle tag="h6" className="mb-2 text-muted">
-                  Card subtitle
+                  Card subtitle---
                 </CardSubtitle>
                 <CardText>
                   Some quick example text to build on the card title and make up
